@@ -37,7 +37,7 @@ Mac 虽然能同步 iPhone 短信，但你不一定坐在 Mac 前面。你的主
 <div><img src="images/demo-feishu-receiver-filter.jpeg" width="280" /></div>
 <div><img src="images/demo-feishu-time-range.jpeg" width="280" /></div>
 
-> 左：微信渠道，按发送方（索尼）过滤并生成摘要 / 中：飞书渠道，按接收号码（183 开头）过滤 / 右：飞书渠道，指定时间范围查完整信息
+> 上：微信渠道，按发送方（索尼）过滤并生成摘要 / 中：飞书渠道，按接收号码（183 开头）过滤 / 下：飞书渠道，指定时间范围查完整信息
 
 ## 安全风险提示
 
