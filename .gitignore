@@ -1,0 +1,6 @@
+# Compiled binary (users must compile locally, FDA is bound to binary hash)
+imessage-db-reader
+!imessage-db-reader.swift
+
+# macOS
+.DS_Store
