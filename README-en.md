@@ -1,8 +1,12 @@
+<div align="center">
+
 # iMessage Reader for OpenClaw
 
 Languages: [简体中文](README.md) · [English](README-en.md)
 
-An [OpenClaw](https://github.com/nicepkg/openclaw) skill that allows you to query iMessage / SMS / RCS messages on your Mac using natural language through any chat tool like Feishu, WeChat, etc., from any device.
+</div>
+
+An [OpenClaw](https://github.com/openclaw/openclaw) skill that allows you to query iMessage / SMS / RCS messages on your Mac using natural language through any chat tool like Feishu, WeChat, etc., from any device.
 
 ## What problem does this solve?
 
@@ -97,7 +101,7 @@ Have someone send you a text (or send one to yourself from another phone) and ch
 - macOS (Verified on macOS Sequoia 15 and macOS Tahoe 26)
 - Xcode Command Line Tools (`xcode-select --install`)
 - Python 3 (built into macOS)
-- [OpenClaw](https://github.com/nicepkg/openclaw) installed and running normally.
+- [OpenClaw](https://github.com/openclaw/openclaw) installed and running normally.
 
 ### Quick Install (Let OpenClaw do it)
 

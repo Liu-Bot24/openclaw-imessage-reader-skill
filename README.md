@@ -1,8 +1,12 @@
+<div align="center">
+
 # iMessage Reader for OpenClaw
 
 Languages: [简体中文](README.md) · [English](README-en.md)
 
-一个 [OpenClaw](https://github.com/nicepkg/openclaw) 技能，让你在任意设备上通过飞书、微信等聊天工具，用自然语言查询 Mac 上的 iMessage / SMS / RCS 消息。
+</div>
+
+一个 [OpenClaw](https://github.com/openclaw/openclaw) 技能，让你在任意设备上通过飞书、微信等聊天工具，用自然语言查询 Mac 上的 iMessage / SMS / RCS 消息。
 
 ## 解决什么问题
 
@@ -97,7 +101,7 @@ Mac 虽然能同步 iPhone 短信，但你不一定坐在 Mac 前面。你的主
 - macOS（已在 macOS Sequoia 15 和 macOS Tahoe 26 上验证）
 - Xcode Command Line Tools（`xcode-select --install`）
 - Python 3（macOS 自带）
-- [OpenClaw](https://github.com/nicepkg/openclaw) 已安装且正常运行
+- [OpenClaw](https://github.com/openclaw/openclaw) 已安装且正常运行
 
 ### 快速安装（让 OpenClaw 自己装）
 
