@@ -1,5 +1,7 @@
 # iMessage Reader for OpenClaw
 
+Languages: [简体中文](README.md) · [English](README-en.md)
+
 一个 [OpenClaw](https://github.com/nicepkg/openclaw) 技能，让你在任意设备上通过飞书、微信等聊天工具，用自然语言查询 Mac 上的 iMessage / SMS / RCS 消息。
 
 ## 解决什么问题
